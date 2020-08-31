@@ -5,7 +5,7 @@ The second program writes a list of list all directories and subdirectories from
 
 **USAGE:**
 
-python program.py *path* *filename*
+python *program.py* *path* *filename*
 
 **NOTE:**
 
